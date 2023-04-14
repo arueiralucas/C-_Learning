@@ -59,7 +59,7 @@ int main (){
     }
     if(nao_acertou){
         cout << "Voce perdeu, tente movamente !";
-       
+        
     }
     else{
         cout << "Voce acertou em : "<< tentativas << " tentativas.\n";
